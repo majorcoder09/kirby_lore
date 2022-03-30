@@ -1,1 +1,1 @@
-# kirby_lore
+#Kirby is kool!
